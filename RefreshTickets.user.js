@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         RefreshTickets
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-05
-// @description  try to take over the world!
+// @version      2024-07-09
+// @description  Adds a button and hotkey(Shift+R) to auto reload boost/t.corp ticket queue
 // @author       Mathew Channell @hmchanne
 // @match        https://myday-website.cmh.aws-border.com/dashboard
 // @match        https://t.corp.amazon.com/issues*
