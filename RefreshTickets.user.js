@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         RefreshTickets
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-09.01test
+// @version      1.0
+// @updateURL    https://github.com/rave340Dev/tampermonkeyShit/raw/main/RefreshTickets.user.js
+// @downloadURL  https://github.com/rave340Dev/tampermonkeyShit/raw/main/RefreshTickets.user.js
 // @description  Adds a button and hotkey(Shift+R) to auto reload boost/t.corp ticket queue
 // @author       Mathew Channell @hmchanne
 // @match        https://myday-website.cmh.aws-border.com/dashboard
